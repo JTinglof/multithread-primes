@@ -1,10 +1,6 @@
-# CS530Assignment2
+# Multithreading to Generate Primes
 
-Joseph
-
-Tinglof
-
-jbtinglof@gmail.com
+A program that uses 4 threads to generate certain prime numbers.
 
 ## **Files Included:**
 
